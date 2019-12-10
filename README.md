@@ -22,7 +22,7 @@
 
 # Open Source Contributions and blogs
 
-1. https://github.com/raghunandankavi2010?tab=repositorie]
+1. https://github.com/raghunandankavi2010?tab=repositorie
 2. https://medium.com/@raghunandan2005
 
 
